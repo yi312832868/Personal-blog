@@ -1,0 +1,43 @@
+2019-12-03 22:16:59.933  INFO 48275 --- [restartedMain] com.lrm.BlogApplication                  : Starting BlogApplication on DukedeMacBook-Pro.local with PID 48275 (/Users/duke/Desktop/blog/target/classes started by duke in /Users/duke/Desktop/blog)
+2019-12-03 22:16:59.934  INFO 48275 --- [restartedMain] com.lrm.BlogApplication                  : The following profiles are active: pro
+2019-12-03 22:17:00.168  WARN 48275 --- [restartedMain] org.apache.tomcat.util.modeler.Registry  : The MBean registry cannot be disabled because it has already been initialised
+2019-12-03 22:17:00.232  WARN 48275 --- [restartedMain] com.zaxxer.hikari.util.DriverDataSource  : Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2019-12-03 22:17:00.279  WARN 48275 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-12-03 22:17:00.334  WARN 48275 --- [restartedMain] ion$DefaultTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2019-12-03 22:17:00.368  INFO 48275 --- [restartedMain] com.lrm.BlogApplication                  : Started BlogApplication in 0.467 seconds (JVM running for 311.711)
+2019-12-03 22:17:02.311  WARN 48280 --- [restartedMain] com.zaxxer.hikari.util.DriverDataSource  : Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2019-12-03 22:17:02.904  WARN 48280 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-12-03 22:17:03.108  WARN 48280 --- [restartedMain] ion$DefaultTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2019-12-03 22:17:03.176  WARN 48280 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : Unable to start LiveReload server
+2019-12-03 22:17:03.264 ERROR 48280 --- [restartedMain] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8081 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8081 or configure this application to listen on another port.
+
+2019-12-03 22:17:41.551  WARN 48302 --- [restartedMain] com.zaxxer.hikari.util.DriverDataSource  : Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2019-12-03 22:17:42.130  WARN 48302 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-12-03 22:17:42.355  WARN 48302 --- [restartedMain] ion$DefaultTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2019-12-03 22:17:42.418  WARN 48302 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : Unable to start LiveReload server
+2019-12-03 22:17:42.482 ERROR 48302 --- [restartedMain] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8081 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8081 or configure this application to listen on another port.
+
