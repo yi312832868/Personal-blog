@@ -1,0 +1,12 @@
+2019-12-07 00:58:16.506  WARN 48965 --- [HikariPool-87 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-87 - Thread starvation or clock leap detected (housekeeper delta=7m41s841ms).
+2019-12-07 04:25:16.874  WARN 48965 --- [HikariPool-87 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-87 - Thread starvation or clock leap detected (housekeeper delta=2h15m29s839ms).
+2019-12-07 10:42:40.231  WARN 48965 --- [HikariPool-87 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-87 - Thread starvation or clock leap detected (housekeeper delta=6h17m23s370ms).
+2019-12-07 12:49:37.994  WARN 48965 --- [HikariPool-87 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-87 - Thread starvation or clock leap detected (housekeeper delta=33m57s106ms).
+2019-12-07 12:59:55.342  WARN 48965 --- [HikariPool-87 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-87 - Thread starvation or clock leap detected (housekeeper delta=10m17s398ms).
+2019-12-07 13:22:31.765  WARN 48965 --- [HikariPool-87 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-87 - Thread starvation or clock leap detected (housekeeper delta=1m24s301ms).
+2019-12-07 13:40:08.671  WARN 48965 --- [HikariPool-87 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-87 - Thread starvation or clock leap detected (housekeeper delta=17m36s914ms).
+2019-12-07 14:21:25.339  WARN 48965 --- [HikariPool-87 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-87 - Thread starvation or clock leap detected (housekeeper delta=31m16s624ms).
+2019-12-07 17:05:00.194  WARN 48965 --- [HikariPool-87 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-87 - Thread starvation or clock leap detected (housekeeper delta=1h11m4s325ms).
+2019-12-07 18:14:28.063  WARN 48965 --- [HikariPool-87 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-87 - Thread starvation or clock leap detected (housekeeper delta=57s452ms).
+2019-12-07 18:47:27.978  WARN 48965 --- [HikariPool-87 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-87 - Thread starvation or clock leap detected (housekeeper delta=26m29s869ms).
+2019-12-07 20:59:18.220  WARN 48965 --- [HikariPool-87 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-87 - Thread starvation or clock leap detected (housekeeper delta=1h25m49s994ms).
