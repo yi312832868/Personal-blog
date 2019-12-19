@@ -1,5 +1,7 @@
 package com.lrm.po;
 
+import org.hibernate.validator.constraints.NotBlank;
+
 import javax.persistence.*;
 import java.util.ArrayList;
 import java.util.List;
@@ -10,6 +12,8 @@ public class Type {
     @Id
     @GeneratedValue
     private Long id;
+
+    @NotBlank(message = "Type name can not be null!")
     private String name;
 
     @OneToMany(mappedBy = "type")
