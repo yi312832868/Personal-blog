@@ -48,7 +48,7 @@
   <!--中间内容-->
   <div  class="m-container-small m-padded-tb-big">
     <div class="ui container">
-      <form action="#" method="post" class="ui form">
+      <form action="#" method="post" th:action="@{/admin/types}" class="ui form">
 
         <div class="field">
           <div class="ui left labeled input">
@@ -63,7 +63,7 @@
 
         <div class="ui right aligned container">
           <button type="button" class="ui button" onclick="window.history.go(-1)" >return</button>
-          <button class="ui teal button">Submit</button>
+          <button class="ui teal submit button">Submit</button>
         </div>
 
       </form>

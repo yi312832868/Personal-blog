@@ -1,0 +1,213 @@
+2019-12-18 00:52:33.517  WARN 21530 --- [HikariPool-8 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-8 - Thread starvation or clock leap detected (housekeeper delta=2h28s916ms).
+2019-12-18 02:03:07.367  WARN 21530 --- [HikariPool-8 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-8 - Thread starvation or clock leap detected (housekeeper delta=1h8m59s688ms).
+2019-12-18 02:10:08.290  WARN 21530 --- [HikariPool-8 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-8 - Thread starvation or clock leap detected (housekeeper delta=6m30s920ms).
+2019-12-18 02:18:01.137  WARN 21530 --- [HikariPool-8 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-8 - Thread starvation or clock leap detected (housekeeper delta=6m51s478ms).
+2019-12-18 02:24:47.949  WARN 21530 --- [HikariPool-8 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-8 - Thread starvation or clock leap detected (housekeeper delta=4m1s617ms).
+2019-12-18 02:34:50.399  WARN 21530 --- [HikariPool-8 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-8 - Thread starvation or clock leap detected (housekeeper delta=3m3s37ms).
+2019-12-18 02:40:52.848  WARN 21530 --- [HikariPool-8 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-8 - Thread starvation or clock leap detected (housekeeper delta=4m25s311ms).
+2019-12-18 02:53:24.129  WARN 21530 --- [HikariPool-8 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-8 - Thread starvation or clock leap detected (housekeeper delta=10m53s626ms).
+2019-12-18 03:00:44.395  WARN 21530 --- [HikariPool-8 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-8 - Thread starvation or clock leap detected (housekeeper delta=7m20s266ms).
+2019-12-18 03:05:37.258  WARN 21530 --- [HikariPool-8 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-8 - Thread starvation or clock leap detected (housekeeper delta=3m19s717ms).
+2019-12-18 03:14:37.101  WARN 21530 --- [HikariPool-8 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-8 - Thread starvation or clock leap detected (housekeeper delta=7m20s836ms).
+2019-12-18 03:18:57.311  WARN 21530 --- [HikariPool-8 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-8 - Thread starvation or clock leap detected (housekeeper delta=3m17s203ms).
+2019-12-18 03:26:05.182  WARN 21530 --- [HikariPool-8 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-8 - Thread starvation or clock leap detected (housekeeper delta=5m36s493ms).
+2019-12-18 03:28:26.113  WARN 21530 --- [HikariPool-8 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-8 - Thread starvation or clock leap detected (housekeeper delta=1m50s922ms).
+2019-12-18 03:42:15.089  WARN 21530 --- [HikariPool-8 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-8 - Thread starvation or clock leap detected (housekeeper delta=9m40s437ms).
+2019-12-18 03:52:26.386  WARN 21530 --- [HikariPool-8 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-8 - Thread starvation or clock leap detected (housekeeper delta=10m11s297ms).
+2019-12-18 04:07:39.383  WARN 21530 --- [HikariPool-8 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-8 - Thread starvation or clock leap detected (housekeeper delta=10m49s475ms).
+2019-12-18 04:18:32.302  WARN 21530 --- [HikariPool-8 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-8 - Thread starvation or clock leap detected (housekeeper delta=5m29s759ms).
+2019-12-18 04:29:31.247  WARN 21530 --- [HikariPool-8 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-8 - Thread starvation or clock leap detected (housekeeper delta=10m28s937ms).
+2019-12-18 04:36:47.105  WARN 21530 --- [HikariPool-8 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-8 - Thread starvation or clock leap detected (housekeeper delta=5m44s478ms).
+2019-12-18 04:39:01.380  WARN 21530 --- [HikariPool-8 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-8 - Thread starvation or clock leap detected (housekeeper delta=2m14s275ms).
+2019-12-18 04:45:58.301  WARN 21530 --- [HikariPool-8 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-8 - Thread starvation or clock leap detected (housekeeper delta=6m26s914ms).
+2019-12-18 04:57:50.918  WARN 21530 --- [HikariPool-8 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-8 - Thread starvation or clock leap detected (housekeeper delta=5m32s729ms).
+2019-12-18 05:01:33.191  WARN 21530 --- [HikariPool-8 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-8 - Thread starvation or clock leap detected (housekeeper delta=2m33s394ms).
+2019-12-18 05:05:27.577  WARN 21530 --- [HikariPool-8 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-8 - Thread starvation or clock leap detected (housekeeper delta=3m24s384ms).
+2019-12-18 05:10:39.528  WARN 21530 --- [HikariPool-8 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-8 - Thread starvation or clock leap detected (housekeeper delta=4m41s945ms).
+2019-12-18 05:18:52.478  WARN 21530 --- [HikariPool-8 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-8 - Thread starvation or clock leap detected (housekeeper delta=8m12s950ms).
+2019-12-18 05:30:10.416  WARN 21530 --- [HikariPool-8 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-8 - Thread starvation or clock leap detected (housekeeper delta=10m47s929ms).
+2019-12-18 05:37:22.141  WARN 21530 --- [HikariPool-8 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-8 - Thread starvation or clock leap detected (housekeeper delta=6m11s707ms).
+2019-12-18 05:45:12.078  WARN 21530 --- [HikariPool-8 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-8 - Thread starvation or clock leap detected (housekeeper delta=7m19s928ms).
+2019-12-18 05:53:29.351  WARN 21530 --- [HikariPool-8 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-8 - Thread starvation or clock leap detected (housekeeper delta=8m17s274ms).
+2019-12-18 05:56:12.266  WARN 21530 --- [HikariPool-8 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-8 - Thread starvation or clock leap detected (housekeeper delta=2m12s907ms).
+2019-12-18 06:07:43.257  WARN 21530 --- [HikariPool-8 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-8 - Thread starvation or clock leap detected (housekeeper delta=11m983ms).
+2019-12-18 06:29:39.854  WARN 21530 --- [HikariPool-8 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-8 - Thread starvation or clock leap detected (housekeeper delta=21m26s587ms).
+2019-12-18 07:37:43.583  WARN 21530 --- [HikariPool-8 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-8 - Thread starvation or clock leap detected (housekeeper delta=1h8m3s730ms).
+2019-12-18 07:39:11.323  WARN 21530 --- [HikariPool-8 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-8 - Thread starvation or clock leap detected (housekeeper delta=57s740ms).
+2019-12-18 08:06:40.078  WARN 21530 --- [HikariPool-8 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-8 - Thread starvation or clock leap detected (housekeeper delta=26m58s751ms).
+2019-12-18 08:09:39.525  WARN 21530 --- [HikariPool-8 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-8 - Thread starvation or clock leap detected (housekeeper delta=2m59s443ms).
+2019-12-18 08:13:32.222  WARN 21530 --- [HikariPool-8 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-8 - Thread starvation or clock leap detected (housekeeper delta=3m22s689ms).
+2019-12-18 08:16:13.486  WARN 21530 --- [HikariPool-8 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-8 - Thread starvation or clock leap detected (housekeeper delta=2m11s258ms).
+2019-12-18 08:20:18.840  WARN 21530 --- [HikariPool-8 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-8 - Thread starvation or clock leap detected (housekeeper delta=3m35s350ms).
+2019-12-18 09:45:08.324  WARN 21530 --- [HikariPool-8 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-8 - Thread starvation or clock leap detected (housekeeper delta=1h24m49s484ms).
+2019-12-18 12:38:34.488  WARN 21530 --- [HikariPool-8 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-8 - Thread starvation or clock leap detected (housekeeper delta=1h53m55s386ms).
+2019-12-18 13:02:57.813  WARN 21530 --- [HikariPool-8 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-8 - Thread starvation or clock leap detected (housekeeper delta=53s231ms).
+2019-12-18 13:17:16.032  WARN 21530 --- [HikariPool-8 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-8 - Thread starvation or clock leap detected (housekeeper delta=13m48s217ms).
+2019-12-18 13:25:16.206  WARN 21530 --- [HikariPool-8 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-8 - Thread starvation or clock leap detected (housekeeper delta=7m30s170ms).
+2019-12-18 14:15:46.579  WARN 21530 --- [HikariPool-8 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-8 - Thread starvation or clock leap detected (housekeeper delta=2m90ms).
+2019-12-18 14:20:56.910  WARN 21530 --- [HikariPool-8 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-8 - Thread starvation or clock leap detected (housekeeper delta=2m58s711ms).
+2019-12-18 15:27:30.130  WARN 21530 --- [HikariPool-8 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-8 - Thread starvation or clock leap detected (housekeeper delta=35m32ms).
+2019-12-18 15:48:34.569  WARN 21530 --- [HikariPool-8 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-8 - Thread starvation or clock leap detected (housekeeper delta=20m4s430ms).
+2019-12-18 16:58:24.318  INFO 21530 --- [Thread-38] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-12-18 16:58:24.320  INFO 21530 --- [Thread-38] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2019-12-18 16:58:24.324  INFO 21530 --- [Thread-38] com.zaxxer.hikari.HikariDataSource       : HikariPool-8 - Shutdown initiated...
+2019-12-18 16:58:24.330  INFO 21530 --- [Thread-38] com.zaxxer.hikari.HikariDataSource       : HikariPool-8 - Shutdown completed.
+2019-12-18 16:58:24.606  INFO 21530 --- [restartedMain] com.lrm.BlogApplication                  : Starting BlogApplication on DukedeMacBook-Pro.local with PID 21530 (/Users/duke/Desktop/blog/target/classes started by duke in /Users/duke/Desktop/blog)
+2019-12-18 16:58:24.606 DEBUG 21530 --- [restartedMain] com.lrm.BlogApplication                  : Running with Spring Boot v2.2.1.RELEASE, Spring v5.2.1.RELEASE
+2019-12-18 16:58:24.606  INFO 21530 --- [restartedMain] com.lrm.BlogApplication                  : The following profiles are active: dev
+2019-12-18 16:58:24.736  INFO 21530 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-12-18 16:58:24.745  INFO 21530 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 8ms. Found 2 repository interfaces.
+2019-12-18 16:58:24.784  INFO 21530 --- [restartedMain] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-12-18 16:58:24.822  WARN 21530 --- [restartedMain] org.apache.tomcat.util.modeler.Registry  : The MBean registry cannot be disabled because it has already been initialised
+2019-12-18 16:58:24.842  INFO 21530 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-12-18 16:58:24.842  INFO 21530 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-12-18 16:58:24.842  INFO 21530 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.27]
+2019-12-18 16:58:24.850  INFO 21530 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-12-18 16:58:24.850  INFO 21530 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 243 ms
+2019-12-18 16:58:24.884  INFO 21530 --- [restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2019-12-18 16:58:24.889  INFO 21530 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-9 - Starting...
+2019-12-18 16:58:24.889  WARN 21530 --- [restartedMain] com.zaxxer.hikari.util.DriverDataSource  : Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2019-12-18 16:58:24.903  INFO 21530 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-9 - Start completed.
+2019-12-18 16:58:24.903  INFO 21530 --- [restartedMain] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2019-12-18 16:58:25.009  INFO 21530 --- [restartedMain] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2019-12-18 16:58:25.010  INFO 21530 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-12-18 16:58:25.017  INFO 21530 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2019-12-18 16:58:25.146  WARN 21530 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-12-18 16:58:25.201  INFO 21530 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-12-18 16:58:25.221  INFO 21530 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2019-12-18 16:58:25.323  INFO 21530 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-12-18 16:58:25.323  INFO 21530 --- [restartedMain] com.lrm.BlogApplication                  : Started BlogApplication in 0.749 seconds (JVM running for 245060.615)
+2019-12-18 16:58:25.324  INFO 21530 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2019-12-18 16:58:30.014  INFO 21530 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-12-18 16:58:30.014  INFO 21530 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-12-18 16:58:30.020  INFO 21530 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 6 ms
+2019-12-18 16:58:33.870  INFO 21530 --- [http-nio-8080-exec-3] com.lrm.aspect.LogAspect                 : Request : {url='http://127.0.0.1:8080/admin/types', ip='127.0.0.1', classMethod='com.lrm.web.TypeController.types', args=[Page request [number: 0, size 10, sort: id: DESC], {}]}
+2019-12-18 16:58:33.881  INFO 21530 --- [http-nio-8080-exec-3] com.lrm.aspect.LogAspect                 : Result : admin/types
+2019-12-18 16:58:36.393  INFO 21530 --- [http-nio-8080-exec-8] com.lrm.aspect.LogAspect                 : Request : {url='http://127.0.0.1:8080/admin/types/input', ip='127.0.0.1', classMethod='com.lrm.web.TypeController.input', args=[]}
+2019-12-18 16:58:36.393  INFO 21530 --- [http-nio-8080-exec-8] com.lrm.aspect.LogAspect                 : Result : admin/types-input
+2019-12-18 16:58:56.395  INFO 21530 --- [http-nio-8080-exec-1] com.lrm.aspect.LogAspect                 : Request : {url='http://127.0.0.1:8080/admin/types', ip='127.0.0.1', classMethod='com.lrm.web.TypeController.post', args=[Type{id=null, name='error logs'}]}
+2019-12-18 16:58:56.469  INFO 21530 --- [http-nio-8080-exec-1] com.lrm.aspect.LogAspect                 : Result : redirect:/admin/types
+2019-12-18 16:58:56.475  INFO 21530 --- [http-nio-8080-exec-2] com.lrm.aspect.LogAspect                 : Request : {url='http://127.0.0.1:8080/admin/types', ip='127.0.0.1', classMethod='com.lrm.web.TypeController.types', args=[Page request [number: 0, size 10, sort: id: DESC], {}]}
+2019-12-18 16:58:56.477  INFO 21530 --- [http-nio-8080-exec-2] com.lrm.aspect.LogAspect                 : Result : admin/types
+2019-12-18 16:59:11.937  INFO 21530 --- [http-nio-8080-exec-5] com.lrm.aspect.LogAspect                 : Request : {url='http://127.0.0.1:8080/admin/types/input', ip='127.0.0.1', classMethod='com.lrm.web.TypeController.input', args=[]}
+2019-12-18 16:59:11.937  INFO 21530 --- [http-nio-8080-exec-5] com.lrm.aspect.LogAspect                 : Result : admin/types-input
+2019-12-18 16:59:28.655  INFO 21530 --- [http-nio-8080-exec-3] com.lrm.aspect.LogAspect                 : Request : {url='http://127.0.0.1:8080/admin/types', ip='127.0.0.1', classMethod='com.lrm.web.TypeController.post', args=[Type{id=null, name='javascript'}]}
+2019-12-18 16:59:28.660  INFO 21530 --- [http-nio-8080-exec-3] com.lrm.aspect.LogAspect                 : Result : redirect:/admin/types
+2019-12-18 16:59:28.663  INFO 21530 --- [http-nio-8080-exec-9] com.lrm.aspect.LogAspect                 : Request : {url='http://127.0.0.1:8080/admin/types', ip='127.0.0.1', classMethod='com.lrm.web.TypeController.types', args=[Page request [number: 0, size 10, sort: id: DESC], {}]}
+2019-12-18 16:59:28.665  INFO 21530 --- [http-nio-8080-exec-9] com.lrm.aspect.LogAspect                 : Result : admin/types
+2019-12-18 16:59:37.339  INFO 21530 --- [http-nio-8080-exec-10] com.lrm.aspect.LogAspect                 : Request : {url='http://127.0.0.1:8080/admin/types/', ip='127.0.0.1', classMethod='com.lrm.web.TypeController.types', args=[Page request [number: 1, size 10, sort: id: DESC], {}]}
+2019-12-18 16:59:37.354  INFO 21530 --- [http-nio-8080-exec-10] com.lrm.aspect.LogAspect                 : Result : admin/types
+2019-12-18 16:59:38.548  INFO 21530 --- [http-nio-8080-exec-8] com.lrm.aspect.LogAspect                 : Request : {url='http://127.0.0.1:8080/admin/types/', ip='127.0.0.1', classMethod='com.lrm.web.TypeController.types', args=[Page request [number: 0, size 10, sort: id: DESC], {}]}
+2019-12-18 16:59:38.551  INFO 21530 --- [http-nio-8080-exec-8] com.lrm.aspect.LogAspect                 : Result : admin/types
+2019-12-18 16:59:39.970  INFO 21530 --- [http-nio-8080-exec-6] com.lrm.aspect.LogAspect                 : Request : {url='http://127.0.0.1:8080/admin/types/', ip='127.0.0.1', classMethod='com.lrm.web.TypeController.types', args=[Page request [number: 1, size 10, sort: id: DESC], {}]}
+2019-12-18 16:59:39.974  INFO 21530 --- [http-nio-8080-exec-6] com.lrm.aspect.LogAspect                 : Result : admin/types
+2019-12-18 16:59:41.237  INFO 21530 --- [http-nio-8080-exec-4] com.lrm.aspect.LogAspect                 : Request : {url='http://127.0.0.1:8080/admin/types/', ip='127.0.0.1', classMethod='com.lrm.web.TypeController.types', args=[Page request [number: 2, size 10, sort: id: DESC], {}]}
+2019-12-18 16:59:41.241  INFO 21530 --- [http-nio-8080-exec-4] com.lrm.aspect.LogAspect                 : Result : admin/types
+2019-12-18 16:59:42.212  INFO 21530 --- [http-nio-8080-exec-3] com.lrm.aspect.LogAspect                 : Request : {url='http://127.0.0.1:8080/admin/types/', ip='127.0.0.1', classMethod='com.lrm.web.TypeController.types', args=[Page request [number: 1, size 10, sort: id: DESC], {}]}
+2019-12-18 16:59:42.215  INFO 21530 --- [http-nio-8080-exec-3] com.lrm.aspect.LogAspect                 : Result : admin/types
+2019-12-18 16:59:43.159  INFO 21530 --- [http-nio-8080-exec-8] com.lrm.aspect.LogAspect                 : Request : {url='http://127.0.0.1:8080/admin/types/', ip='127.0.0.1', classMethod='com.lrm.web.TypeController.types', args=[Page request [number: 0, size 10, sort: id: DESC], {}]}
+2019-12-18 16:59:43.162  INFO 21530 --- [http-nio-8080-exec-8] com.lrm.aspect.LogAspect                 : Result : admin/types
+2019-12-18 17:02:03.420  INFO 21530 --- [Thread-43] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-12-18 17:02:03.421  INFO 21530 --- [Thread-43] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2019-12-18 17:02:03.421  INFO 21530 --- [Thread-43] com.zaxxer.hikari.HikariDataSource       : HikariPool-9 - Shutdown initiated...
+2019-12-18 17:02:03.427  INFO 21530 --- [Thread-43] com.zaxxer.hikari.HikariDataSource       : HikariPool-9 - Shutdown completed.
+2019-12-18 17:02:03.525  INFO 21530 --- [restartedMain] com.lrm.BlogApplication                  : Starting BlogApplication on DukedeMacBook-Pro.local with PID 21530 (/Users/duke/Desktop/blog/target/classes started by duke in /Users/duke/Desktop/blog)
+2019-12-18 17:02:03.525 DEBUG 21530 --- [restartedMain] com.lrm.BlogApplication                  : Running with Spring Boot v2.2.1.RELEASE, Spring v5.2.1.RELEASE
+2019-12-18 17:02:03.525  INFO 21530 --- [restartedMain] com.lrm.BlogApplication                  : The following profiles are active: dev
+2019-12-18 17:02:03.632  INFO 21530 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-12-18 17:02:03.643  INFO 21530 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 10ms. Found 2 repository interfaces.
+2019-12-18 17:02:03.673  INFO 21530 --- [restartedMain] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-12-18 17:02:03.709  WARN 21530 --- [restartedMain] org.apache.tomcat.util.modeler.Registry  : The MBean registry cannot be disabled because it has already been initialised
+2019-12-18 17:02:03.724  INFO 21530 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-12-18 17:02:03.725  INFO 21530 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-12-18 17:02:03.725  INFO 21530 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.27]
+2019-12-18 17:02:03.741  INFO 21530 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-12-18 17:02:03.741  INFO 21530 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 215 ms
+2019-12-18 17:02:03.791  INFO 21530 --- [restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2019-12-18 17:02:03.794  INFO 21530 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-10 - Starting...
+2019-12-18 17:02:03.794  WARN 21530 --- [restartedMain] com.zaxxer.hikari.util.DriverDataSource  : Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2019-12-18 17:02:03.822  INFO 21530 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-10 - Start completed.
+2019-12-18 17:02:03.822  INFO 21530 --- [restartedMain] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2019-12-18 17:02:03.930  INFO 21530 --- [restartedMain] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2019-12-18 17:02:03.930  INFO 21530 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-12-18 17:02:03.937  INFO 21530 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2019-12-18 17:02:04.066  WARN 21530 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-12-18 17:02:04.121  INFO 21530 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-12-18 17:02:04.146  INFO 21530 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2019-12-18 17:02:04.260  INFO 21530 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-12-18 17:02:04.260  INFO 21530 --- [restartedMain] com.lrm.BlogApplication                  : Started BlogApplication in 0.753 seconds (JVM running for 245279.55)
+2019-12-18 17:02:04.261  INFO 21530 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2019-12-18 17:02:07.860  INFO 21530 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-12-18 17:02:07.860  INFO 21530 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-12-18 17:02:07.867  INFO 21530 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 7 ms
+2019-12-18 17:02:11.104  INFO 21530 --- [http-nio-8080-exec-8] com.lrm.aspect.LogAspect                 : Request : {url='http://127.0.0.1:8080/admin/types', ip='127.0.0.1', classMethod='com.lrm.web.TypeController.types', args=[Page request [number: 0, size 10, sort: id: DESC], {}]}
+2019-12-18 17:02:11.113  INFO 21530 --- [http-nio-8080-exec-8] com.lrm.aspect.LogAspect                 : Result : admin/types
+2019-12-18 17:03:05.115  INFO 21530 --- [http-nio-8080-exec-9] com.lrm.aspect.LogAspect                 : Request : {url='http://127.0.0.1:8080/admin/types', ip='127.0.0.1', classMethod='com.lrm.web.TypeController.types', args=[Page request [number: 0, size 10, sort: id: DESC], {}]}
+2019-12-18 17:03:05.118  INFO 21530 --- [http-nio-8080-exec-9] com.lrm.aspect.LogAspect                 : Result : admin/types
+2019-12-18 17:04:02.906  INFO 21530 --- [http-nio-8080-exec-1] com.lrm.aspect.LogAspect                 : Request : {url='http://127.0.0.1:8080/admin/types', ip='127.0.0.1', classMethod='com.lrm.web.TypeController.types', args=[Page request [number: 0, size 10, sort: id: DESC], {}]}
+2019-12-18 17:04:02.909  INFO 21530 --- [http-nio-8080-exec-1] com.lrm.aspect.LogAspect                 : Result : admin/types
+2019-12-18 17:04:43.570  INFO 21530 --- [http-nio-8080-exec-2] com.lrm.aspect.LogAspect                 : Request : {url='http://127.0.0.1:8080/admin/types/input', ip='127.0.0.1', classMethod='com.lrm.web.TypeController.input', args=[]}
+2019-12-18 17:04:43.570  INFO 21530 --- [http-nio-8080-exec-2] com.lrm.aspect.LogAspect                 : Result : admin/types-input
+2019-12-18 17:04:51.957  INFO 21530 --- [http-nio-8080-exec-10] com.lrm.aspect.LogAspect                 : Request : {url='http://127.0.0.1:8080/admin/types', ip='127.0.0.1', classMethod='com.lrm.web.TypeController.post', args=[Type{id=null, name='html and css'}]}
+2019-12-18 17:04:51.965  INFO 21530 --- [http-nio-8080-exec-10] com.lrm.aspect.LogAspect                 : Result : redirect:/admin/types
+2019-12-18 17:04:51.973  INFO 21530 --- [http-nio-8080-exec-7] com.lrm.aspect.LogAspect                 : Request : {url='http://127.0.0.1:8080/admin/types', ip='127.0.0.1', classMethod='com.lrm.web.TypeController.types', args=[Page request [number: 0, size 10, sort: id: DESC], {}]}
+2019-12-18 17:04:51.976  INFO 21530 --- [http-nio-8080-exec-7] com.lrm.aspect.LogAspect                 : Result : admin/types
+2019-12-18 17:04:55.325  INFO 21530 --- [http-nio-8080-exec-8] com.lrm.aspect.LogAspect                 : Request : {url='http://127.0.0.1:8080/admin/types/input', ip='127.0.0.1', classMethod='com.lrm.web.TypeController.input', args=[]}
+2019-12-18 17:04:55.325  INFO 21530 --- [http-nio-8080-exec-8] com.lrm.aspect.LogAspect                 : Result : admin/types-input
+2019-12-18 17:05:01.764  INFO 21530 --- [http-nio-8080-exec-4] com.lrm.aspect.LogAspect                 : Request : {url='http://127.0.0.1:8080/admin/types', ip='127.0.0.1', classMethod='com.lrm.web.TypeController.post', args=[Type{id=null, name='SpringBoot'}]}
+2019-12-18 17:05:01.769  INFO 21530 --- [http-nio-8080-exec-4] com.lrm.aspect.LogAspect                 : Result : redirect:/admin/types
+2019-12-18 17:05:01.772  INFO 21530 --- [http-nio-8080-exec-9] com.lrm.aspect.LogAspect                 : Request : {url='http://127.0.0.1:8080/admin/types', ip='127.0.0.1', classMethod='com.lrm.web.TypeController.types', args=[Page request [number: 0, size 10, sort: id: DESC], {}]}
+2019-12-18 17:05:01.775  INFO 21530 --- [http-nio-8080-exec-9] com.lrm.aspect.LogAspect                 : Result : admin/types
+2019-12-18 17:05:26.347  INFO 21530 --- [Thread-48] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-12-18 17:05:26.348  INFO 21530 --- [Thread-48] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2019-12-18 17:05:26.348  INFO 21530 --- [Thread-48] com.zaxxer.hikari.HikariDataSource       : HikariPool-10 - Shutdown initiated...
+2019-12-18 17:05:26.352  INFO 21530 --- [Thread-48] com.zaxxer.hikari.HikariDataSource       : HikariPool-10 - Shutdown completed.
+2019-12-18 17:05:26.449  INFO 21530 --- [restartedMain] com.lrm.BlogApplication                  : Starting BlogApplication on DukedeMacBook-Pro.local with PID 21530 (/Users/duke/Desktop/blog/target/classes started by duke in /Users/duke/Desktop/blog)
+2019-12-18 17:05:26.450 DEBUG 21530 --- [restartedMain] com.lrm.BlogApplication                  : Running with Spring Boot v2.2.1.RELEASE, Spring v5.2.1.RELEASE
+2019-12-18 17:05:26.450  INFO 21530 --- [restartedMain] com.lrm.BlogApplication                  : The following profiles are active: dev
+2019-12-18 17:05:26.555  INFO 21530 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-12-18 17:05:26.563  INFO 21530 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 7ms. Found 2 repository interfaces.
+2019-12-18 17:05:26.591  INFO 21530 --- [restartedMain] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-12-18 17:05:26.627  WARN 21530 --- [restartedMain] org.apache.tomcat.util.modeler.Registry  : The MBean registry cannot be disabled because it has already been initialised
+2019-12-18 17:05:26.642  INFO 21530 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-12-18 17:05:26.642  INFO 21530 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-12-18 17:05:26.642  INFO 21530 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.27]
+2019-12-18 17:05:26.650  INFO 21530 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-12-18 17:05:26.650  INFO 21530 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 199 ms
+2019-12-18 17:05:26.686  INFO 21530 --- [restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2019-12-18 17:05:26.690  INFO 21530 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-11 - Starting...
+2019-12-18 17:05:26.690  WARN 21530 --- [restartedMain] com.zaxxer.hikari.util.DriverDataSource  : Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2019-12-18 17:05:26.701  INFO 21530 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-11 - Start completed.
+2019-12-18 17:05:26.701  INFO 21530 --- [restartedMain] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2019-12-18 17:05:26.787  INFO 21530 --- [restartedMain] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2019-12-18 17:05:26.787  INFO 21530 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-12-18 17:05:26.794  INFO 21530 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2019-12-18 17:05:26.928  WARN 21530 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-12-18 17:05:26.982  INFO 21530 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-12-18 17:05:27.000  INFO 21530 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2019-12-18 17:05:27.096  INFO 21530 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-12-18 17:05:27.097  INFO 21530 --- [restartedMain] com.lrm.BlogApplication                  : Started BlogApplication in 0.665 seconds (JVM running for 245482.385)
+2019-12-18 17:05:27.097  INFO 21530 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2019-12-18 17:05:33.587  INFO 21530 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-12-18 17:05:33.588  INFO 21530 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-12-18 17:05:33.594  INFO 21530 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 6 ms
+2019-12-18 17:05:36.975  INFO 21530 --- [http-nio-8080-exec-8] com.lrm.aspect.LogAspect                 : Request : {url='http://127.0.0.1:8080/admin/types', ip='127.0.0.1', classMethod='com.lrm.web.TypeController.types', args=[Page request [number: 0, size 3, sort: id: DESC], {}]}
+2019-12-18 17:05:36.987  INFO 21530 --- [http-nio-8080-exec-8] com.lrm.aspect.LogAspect                 : Result : admin/types
+2019-12-18 17:05:40.406  INFO 21530 --- [http-nio-8080-exec-3] com.lrm.aspect.LogAspect                 : Request : {url='http://127.0.0.1:8080/admin/types/', ip='127.0.0.1', classMethod='com.lrm.web.TypeController.types', args=[Page request [number: 1, size 3, sort: id: DESC], {}]}
+2019-12-18 17:05:40.409  INFO 21530 --- [http-nio-8080-exec-3] com.lrm.aspect.LogAspect                 : Result : admin/types
+2019-12-18 17:05:41.744  INFO 21530 --- [http-nio-8080-exec-2] com.lrm.aspect.LogAspect                 : Request : {url='http://127.0.0.1:8080/admin/types/', ip='127.0.0.1', classMethod='com.lrm.web.TypeController.types', args=[Page request [number: 0, size 3, sort: id: DESC], {}]}
+2019-12-18 17:05:41.748  INFO 21530 --- [http-nio-8080-exec-2] com.lrm.aspect.LogAspect                 : Result : admin/types
+2019-12-18 17:33:30.792  WARN 21530 --- [HikariPool-11 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-11 - Thread starvation or clock leap detected (housekeeper delta=14m2s578ms).
+2019-12-18 18:00:01.525  WARN 21530 --- [HikariPool-11 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-11 - Thread starvation or clock leap detected (housekeeper delta=25m29s370ms).
+2019-12-18 19:01:27.161  WARN 21530 --- [HikariPool-11 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-11 - Thread starvation or clock leap detected (housekeeper delta=55s307ms).
+2019-12-18 19:30:55.563  WARN 21530 --- [HikariPool-11 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-11 - Thread starvation or clock leap detected (housekeeper delta=25m14s778ms).
+2019-12-18 19:36:42.866  WARN 21530 --- [HikariPool-11 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-11 - Thread starvation or clock leap detected (housekeeper delta=47s274ms).
+2019-12-18 19:37:59.794  WARN 21530 --- [HikariPool-11 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-11 - Thread starvation or clock leap detected (housekeeper delta=46s919ms).
+2019-12-18 19:39:24.854  WARN 21530 --- [HikariPool-11 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-11 - Thread starvation or clock leap detected (housekeeper delta=55s56ms).
+2019-12-18 19:41:56.216  WARN 21530 --- [HikariPool-11 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-11 - Thread starvation or clock leap detected (housekeeper delta=2m31s362ms).
+2019-12-18 19:43:29.998  WARN 21530 --- [HikariPool-11 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-11 - Thread starvation or clock leap detected (housekeeper delta=1m3s778ms).
+2019-12-18 19:47:34.405  WARN 21530 --- [HikariPool-11 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-11 - Thread starvation or clock leap detected (housekeeper delta=55s144ms).
+2019-12-18 20:42:51.045  WARN 21530 --- [HikariPool-11 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-11 - Thread starvation or clock leap detected (housekeeper delta=4m44s832ms).
+2019-12-18 20:43:44.629  WARN 21530 --- [HikariPool-11 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-11 - Thread starvation or clock leap detected (housekeeper delta=53s584ms).
+2019-12-18 21:17:22.104  WARN 21530 --- [HikariPool-11 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-11 - Thread starvation or clock leap detected (housekeeper delta=33m7s472ms).
+2019-12-18 21:32:46.932  WARN 21530 --- [HikariPool-11 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-11 - Thread starvation or clock leap detected (housekeeper delta=14m24s816ms).
