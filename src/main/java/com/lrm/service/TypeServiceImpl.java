@@ -26,7 +26,7 @@ public class TypeServiceImpl implements TypeService {
     @Transactional
     @Override
     public Type getType(Long id) {
-        return typeRepository.findById(id).orElse(null);
+        return typeRepository.findOne(id);
     }
 
     @Transactional
@@ -38,7 +38,7 @@ public class TypeServiceImpl implements TypeService {
     @Transactional
     @Override
     public Type updateType(Long id, Type type) {
-        Type t = typeRepository.findById(id).orElse(null);
+        Type t = typeRepository.findOne(id);
         if(t == null){
             throw new NotFoundException("Type does not exit!");
         }
@@ -54,6 +54,6 @@ public class TypeServiceImpl implements TypeService {
     @Transactional
     @Override
     public void deleteType(Long id) {
-        typeRepository.deleteById(id);
+        typeRepository.delete(id);
     }
 }
