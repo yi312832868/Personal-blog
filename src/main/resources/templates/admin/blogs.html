@@ -13,10 +13,10 @@
   <nav th:replace="admin/_fragments :: menu(1)" class="ui inverted attached segment m-padded-tb-mini m-shadow-small" >
     <div class="ui container">
       <div class="ui inverted secondary stackable menu">
-        <h2 class="ui teal header item">管理后台</h2>
-        <a href="#" class="active m-item item m-mobile-hide"><i class="mini home icon"></i>博客</a>
-        <a href="#" class=" m-item item m-mobile-hide"><i class="mini idea icon"></i>分类</a>
-        <a href="#" class="m-item item m-mobile-hide"><i class="mini tags icon"></i>标签</a>
+        <h2 class="ui teal header item">Backend Management</h2>
+        <a href="#" class="active m-item item m-mobile-hide"><i class="mini home icon"></i>Blog</a>
+        <a href="#" class=" m-item item m-mobile-hide"><i class="mini idea icon"></i>Type</a>
+        <a href="#" class="m-item item m-mobile-hide"><i class="mini tags icon"></i>Tag</a>
         <div class="right m-item m-mobile-hide menu">
           <div class="ui dropdown  item">
             <div class="text">
@@ -47,14 +47,15 @@
   <!--中间内容-->
   <div  class="m-container-small m-padded-tb-big">
     <div class="ui container">
-      <form action="#" method="post" class="ui secondary segment form">
+      <div  class="ui secondary segment form">
+        <input type="hidden" name="page">
         <div class="inline fields">
           <div class="field">
             <input type="text" name="title" placeholder="标题">
           </div>
           <div class="field">
             <div class="ui selection dropdown">
-              <input type="hidden" name="type">
+              <input type="hidden" name="typeId">
               <i class="dropdown icon"></i>
               <div class="default text">分类</div>
               <div class="menu">
@@ -70,13 +71,13 @@
             </div>
           </div>
           <div class="field">
-            <button class="ui mini teal basic button"><i class="search icon"></i>搜索</button>
+            <button type="button" id="search-btn" class="ui mini teal basic button"><i class="search icon"></i>搜索</button>
           </div>
         </div>
-      </form>
-
-      <table class="ui compact teal table">
-        <thead>
+      </div>
+      <div id="table-containe">
+        <table th:fragment="blogList" class="ui compact teal table">
+          <thead>
           <tr>
             <th></th>
             <th>标题</th>
@@ -85,32 +86,34 @@
             <th>更新时间</th>
             <th>操作</th>
           </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td>1</td>
-            <td>刻意练习清单</td>
-            <td>认知升级</td>
-            <td>是</td>
-            <td>2017-10-02 09:45</td>
+          </thead>
+          <tbody>
+          <tr th:each="blog,iterStat : ${page.content}">
+            <td th:text="${iterStat.count}">1</td>
+            <td th:text="${blog.title}">刻意练习清单</td>
+            <td th:text="${blog.type.name}">认知升级</td>
+            <td th:text="${blog.recommend}? 'YES : NO">是</td>
+            <td th:text="${blog.updateTime}">2017-10-02 09:45</td>
             <td>
-              <a href="#" class="ui mini teal basic button">编辑</a>
-              <a href="#" class="ui mini red basic button">删除</a>
+              <a href="#" th:href="@{/admin/blogs/{id}/input(id=${blog.id})}" class="ui mini teal basic button">编辑</a>
+              <a href="#" th:href="@{/admin/blogs/{id}/delete(id=${blog.id})}" class="ui mini red basic button">删除</a>
             </td>
           </tr>
-        </tbody>
-        <tfoot>
+          </tbody>
+          <tfoot>
           <tr>
             <th colspan="6">
-              <div class="ui mini pagination menu">
-                <a class=" item">上一页</a>
-                <a class=" item">下一页</a>
+              <div class="ui mini pagination menu" th:if="${page.totalPages}>1">
+                <a onclick="page(this)" th:attr="data-page=${page.number}-1" class=" item" th:unless="${page.first}">上一页</a>
+                <a onclick="page(this)" th:attr="data-page=${page.number}+1" class=" item" th:unless="${page.last}">下一页</a>
               </div>
               <a href="#" class="ui mini right floated teal basic button">新增</a>
             </th>
           </tr>
-        </tfoot>
-      </table>
+          </tfoot>
+        </table>
+
+      </div>
     </div>
   </div>
 
@@ -165,6 +168,22 @@
       on : 'hover'
     });
 
+    function page(obj){
+      $("[name = 'page']").val($(obj).data("page"));
+      loaddata();
+    }
+    $("#search-btn").click(function(){
+      loaddata();
+    })
+
+    function loaddata() {
+      $("#table-container").load(/*[[@{/admin/blogs/search}]]*/"/admin/blogs/search",{
+        title : $("[name='title']").val(),
+        typeId : $("[name='typeId']").val(),
+        recommend : $("[name='recommend']").prop('checked'),
+        page : $("[name='page']").val()
+      });
+    }
   </script>
 </body>
 </html>
