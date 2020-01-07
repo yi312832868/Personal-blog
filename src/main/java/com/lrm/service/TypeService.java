@@ -5,6 +5,9 @@ import org.springframework.data.domain.Page;
 
 import org.springframework.data.domain.Pageable;
 
+import javax.lang.model.element.TypeElement;
+import java.util.List;
+
 
 public interface TypeService {
 
@@ -19,4 +22,6 @@ public interface TypeService {
     Type updateType(Long id, Type type);
 
     void deleteType(Long id);
+
+    List<Type> listType();
 }

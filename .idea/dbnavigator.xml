@@ -23,7 +23,11 @@
     <autoscroll-to-editor value="false" />
     <autoscroll-from-editor value="true" />
     <show-object-properties value="true" />
-    <loaded-nodes />
+    <loaded-nodes>
+      <connection connection-id="91a81e0d-6210-4c60-bc4f-b5242d72a9d7">
+        <schema name="blog" object-types="view, column, table, function, dataset trigger, procedure, constraint, index" />
+      </connection>
+    </loaded-nodes>
   </component>
   <component name="DBNavigator.Project.DatabaseConsoleManager">
     <connection id="91a81e0d-6210-4c60-bc4f-b5242d72a9d7">
@@ -35,6 +39,13 @@
   </component>
   <component name="DBNavigator.Project.DatabaseSessionManager">
     <connection id="91a81e0d-6210-4c60-bc4f-b5242d72a9d7" />
+  </component>
+  <component name="DBNavigator.Project.DatasetFilterManager">
+    <filter-actions connection-id="91a81e0d-6210-4c60-bc4f-b5242d72a9d7" dataset="blog.t_type" active-filter-id="9bf30863-8923-4ade-870d-eaa3cb7604c5">
+      <filter id="9bf30863-8923-4ade-870d-eaa3cb7604c5" name="Filter 1" temporary="false" custom-name="false" type="basic" join-type="AND">
+        <condition column="id" operator="=" value="" active="true" />
+      </filter>
+    </filter-actions>
   </component>
   <component name="DBNavigator.Project.EditorStateManager">
     <last-used-providers />
@@ -65,7 +76,7 @@
           <description value="blog" />
           <database-type value="MYSQL" />
           <config-type value="BASIC" />
-          <database-version value="9999.0" />
+          <database-version value="8.0" />
           <driver-source value="BUILTIN" />
           <driver-library value="" />
           <driver value="" />
@@ -74,8 +85,8 @@
           <port value="3306" />
           <database value="mysql" />
           <type value="USER_PASSWORD" />
-          <user value="localhost" />
-          <deprecated-pwd value="d29zaGlmZWk=" />
+          <user value="root" />
+          <deprecated-pwd value="d29zaGlmZWk1" />
         </database>
         <properties>
           <auto-commit value="false" />
